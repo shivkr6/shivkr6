@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shivang K Raghuvanshi<br>- Currently a college student in 1st year<br>- I’m currently learning rust<br><br><br>
+👋 Hi, I’m Shivang K Raghuvanshi<br>Currently a college student in 1st year<br>Learning rust<br><br><br>
 
 
 Socials:

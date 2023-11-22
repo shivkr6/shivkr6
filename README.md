@@ -1,7 +1,7 @@
 👋 Hi, I’m Shivang K Raghuvanshi<br>Currently a college student in 1st year<br>Learning rust<br><br><br>
 
 
-- Socials:
+Socials:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivkr6) 
 
 <br>GitHub Stats:

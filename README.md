@@ -4,8 +4,6 @@
 - Learning rust.
 
 [![](https://visitcount.itsvg.in/api?id=shivkr6&icon=1&color=12)](https://visitcount.itsvg.in)
-### Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivkr6)
 ### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivkr6&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!---

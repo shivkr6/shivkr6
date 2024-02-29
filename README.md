@@ -1,7 +1,7 @@
 ### About:
 - 👋 Hi, I’m Shivang K Raghuvanshi.
-- Currently a college student in 1st year.
-- Learning rust.
+- Currently a undergrad student majoring in Computer Science.
+- Learning about Wayland and OpenGL.
 
 [![](https://visitcount.itsvg.in/api?id=shivkr6&icon=1&color=12)](https://visitcount.itsvg.in)
 ### GitHub Stats:

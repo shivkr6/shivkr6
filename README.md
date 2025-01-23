@@ -1,6 +1,8 @@
 ### About:
 - 👋 Hi, I’m Shivang.
-- Learning about Cloud native technologies.
+- Rust Developer & Open-Source Contributor | Building Safe, High-Performance Systems. Fast self-
+learner experienced in working with a variety of different tech stacks and development
+environments.
 
 [![](https://visitcount.itsvg.in/api?id=shivkr6&icon=1&color=12)](https://visitcount.itsvg.in)
 ### GitHub Stats:

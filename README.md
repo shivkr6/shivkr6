@@ -1,8 +1,8 @@
 ### About:
 - 👋 Hi, I’m Shivang.
-- Rust Developer & Open-Source Contributor | Building Safe, High-Performance Systems. Fast self-
-learner experienced in working with a variety of different tech stacks and development
+- Software Developer & Open Source Contributor | Fast self learner experienced in working with a variety of different tech stacks and development
 environments.
+- Interested in low level systems programming and site reliability engineering.
 
 [![](https://visitcount.itsvg.in/api?id=shivkr6&icon=1&color=12)](https://visitcount.itsvg.in)
 ### GitHub Stats:
